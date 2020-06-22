@@ -10,3 +10,9 @@ Try this link, for example:
 
 - [Trello Test Board](https://trello.com/b/WCQS9DQm?scrollToList=Stiletto)
 - `https://trello.com/b/WCQS9DQm?scrollToList=Stiletto`
+
+## Hosted versions
+
+- [Greasy Fork](https://greasyfork.org/en/scripts/405880-scroll-to-trello-list)
+
+- [OpenUserJS](https://openuserjs.org/scripts/VassyutovichIlya/Scroll_to_Trello_list)
