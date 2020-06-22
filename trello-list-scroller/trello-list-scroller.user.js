@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name          Scroll to Trello list
+// @description   Automatically scroll to the specified Trello-board list
 // @author        Vassyutovich Ilya (https://github.com/VassyutovichIlya)
 // @homepageURL   https://github.com/VassyutovichIlya/user-scripts
 // @license       MIT
