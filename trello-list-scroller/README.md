@@ -4,7 +4,7 @@ Script allows you to navigate to Trello-board and automatically scroll to
 the needed list by specifying it's name in query-string.
 
 You can then save the prepared URI in Bookmarks or use it directly from
-adress bar (via history search in your browser).
+address bar (via history search in your browser).
 
 Try this link, for example:
 
