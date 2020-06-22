@@ -1,4 +1,4 @@
-# Trello List Scroller (TLS)
+# Scroll to Trello List (TLS)
 
 Script allows you to navigate to Trello-board and automatically scroll to
 the needed list by specifying it's name in query-string.
